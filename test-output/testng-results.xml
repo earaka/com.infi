@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-20T18:46:06 IST" name="Suite" finished-at="2021-03-20T18:46:40 IST" duration-ms="33909">
+    <groups>
+    </groups>
+    <test started-at="2021-03-20T18:46:06 IST" name="Test" finished-at="2021-03-20T18:46:40 IST" duration-ms="33909">
+      <class name="com.maven.pageobject.TestScript.TC001_SignUp">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.maven.pageobject.TestScript.TC001_SignUp@505fc5a4]" started-at="2021-03-20T18:46:06 IST" name="setUp" finished-at="2021-03-20T18:46:33 IST" duration-ms="26344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_click_createAccount()[pri:0, instance:com.maven.pageobject.TestScript.TC001_SignUp@505fc5a4]" started-at="2021-03-20T18:46:33 IST" name="validate_click_createAccount" finished-at="2021-03-20T18:46:36 IST" duration-ms="3324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_click_createAccount -->
+        <test-method signature="validate_sendKeys_fullName()[pri:0, instance:com.maven.pageobject.TestScript.TC001_SignUp@505fc5a4]" started-at="2021-03-20T18:46:36 IST" name="validate_sendKeys_fullName" finished-at="2021-03-20T18:46:36 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_sendKeys_fullName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.maven.pageobject.TestScript.TC001_SignUp@505fc5a4]" started-at="2021-03-20T18:46:36 IST" name="tearDown" finished-at="2021-03-20T18:46:40 IST" duration-ms="4160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.maven.pageobject.TestScript.TC001_SignUp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
